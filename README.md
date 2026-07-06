@@ -2,8 +2,8 @@
 
 # Daniel Glukhov
 
-### Senior UX/UI Designer
 ### Flutter Developer
+### Senior UX/UI Designer
 
 Проектирую и разрабатываю мобильные приложения, объединяя UX/UI-дизайн и Flutter-разработку.
 
