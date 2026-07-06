@@ -31,11 +31,11 @@
 
 ---
 
-## Featured Project
+## Основной проект
 
 ### DiceKeep
 
-Мобильное приложение для игроков в настольные RPG.
+Companion-приложение для игроков в настольные RPG.
 
 **Статус:** Google Play Closed Testing.
 
